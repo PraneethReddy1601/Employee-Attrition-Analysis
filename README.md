@@ -1,7 +1,3 @@
-Below is a detailed README template you can use for your "Employee Attrition Analysis" project to include in your GitHub repository:
-
----
-
 # Employee Attrition Analysis
 
 This project focuses on analyzing employee attrition in an organization, predicting the likelihood of employees leaving based on various features, and deriving insights that can help HR departments mitigate turnover rates.
